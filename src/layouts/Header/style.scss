@@ -1,0 +1,5 @@
+@forward '../../scss/color';
+@use '../../scss/color';
+.header {
+   background-color: color.$colorYellow ;
+}
